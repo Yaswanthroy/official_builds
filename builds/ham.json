@@ -1,0 +1,27 @@
+{
+  "pie": [
+    {
+      "addons": [
+        {
+            "title": "Magisk",
+            "summary": "Installer zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+        },
+        {
+            "title": "Magisk",
+            "summary": "Uninstaller zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+        }
+      ],
+      "developer": "Srijith Bharadwaj",
+      "developer_url": "https://forum.xda-developers.com/member.php?u=8350895",
+      "forum_url": "https://forum.xda-developers.com/zuk-z1/orig-development/rom-lluviaos-v1-1-t3792422",
+      "filename": "LLuviaOS-v3.0-Crystal-ham-NatureMade-20190210.zip",
+      "build_date": 20190210,
+      "filesize": 380000000,
+      "md5": "acbb57e41fa059f9354df35db226d5a7",
+      "url": "https://sourceforge.net/projects/lluviaos-3-0/files/ham/LLuviaOS-v3.0-Crystal-ham-NatureMade-20190210.zip/download",
+      "version": "v3.0"
+    }
+  ]
+}
