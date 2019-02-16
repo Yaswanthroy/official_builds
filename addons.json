@@ -10,5 +10,23 @@
             "summary": "Uninstaller zip",
             "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
         }
+    ],
+
+    "public": [
+        {
+            "title": "Google Camera",
+            "summary": "Scrubber's Pixel 2XL",
+            "url": "https://www.celsoazevedo.com/files/android/google-camera/f/scrubber_GCameraP2XL.apk"
+        },
+        {
+            "title":"Miui Camera",
+            "summary":"Ported MiuiCamera from Mi A2",
+            "url":"http://159.65.193.144/sagit/MIUI-CAM/Mi_A2_Camera.zip"
+        },
+        {
+            "title":"GApps",
+            "summary":"OpenGApps arm64 & android 9.0 ",
+            "url":"https://opengapps.org/"
+        }
     ]
 }
