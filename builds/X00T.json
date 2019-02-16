@@ -1,0 +1,27 @@
+{
+  "pie": [
+    {
+      "addons": [
+        {
+            "title": "Magisk",
+            "summary": "Installer zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
+        },
+        {
+            "title": "Magisk",
+            "summary": "Uninstaller zip",
+            "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
+        }
+      ],
+      "developer": "Yaswanth",
+      "developer_url": "https://forum.xda-developers.com/member.php?u=8603410",
+      "forum_url": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-lluvia-os-t3853616",
+      "filename": "LLuviaOS-v3.0-Crystal-X00T-Official-20190208.zip",
+      "build_date": 20190208,
+      "filesize": 690000000,
+      "md5": "acbb57e41fa059f9354df35db226d5a7",
+      "url": "https://sourceforge.net/projects/lluviaos-3-0/files/XOOT/LLuviaOS-v3.0-Crystal-X00T-Official-20190208.zip/download",
+      "version": "v3.0"
+    }
+  ]
+}
